@@ -112,7 +112,7 @@ userdata:
   email: sram@ethz.ch # E.g: youremail@domain.com
   twitter: # E.g: "@my_twitter"
   disqus:
-    username: # E.g: myuser
+    username: sram # E.g: myuser
   # You can add at most 5 social. If you do not want 5, you can remove the block containing: title, id, icon, url.
   socials:
     title: Follow Me!
