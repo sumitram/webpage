@@ -20,7 +20,7 @@ excerpt: |
 
 #  Sumit Kumar Ram
 
-### Ph.D. Student at the Chair of Entrepreneurial Risks
+#### Ph.D. Student at the Chair of Entrepreneurial Risks
 
 {:.markdown__mt40}
 ## Personal Data
@@ -31,54 +31,69 @@ excerpt: |
 **Home Address**: Leonhardstrasse 13
 **Country**: Switzerland
 **Province**: Zurich
-**Telephone**: +55 011 1234 5678   
+**Telephone**:
+<!--+41 12345678-->
 **Email**: sram@ethz.ch
-**Website**: [my-web-site.domain](http://williamcanin.com)   
+**Website**: [https://sumitram.github.io](https://sumitram.github.io/webpage)
 
 
 ## Biography
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aliquid, alias voluptatibus vel eligendi eveniet. Quas rem, repellendus deleniti nostrum minima delectus maxime fugiat, voluptates modi, laudantium, natus eligendi <sequi class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non quibusdam repellat commodi veniam ab voluptate odio recusandae earum, magnam dolore architecto dolorem. Sint dolor deserunt, molestiae soluta, consequatur non!</sequi>
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde earum itaque saepe voluptatum distinctio soluta provident repudiandae mollitia similique repellat eum incidunt quo, tenetur quasi voluptatem sed animi repellendus.
+<!--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aliquid, alias voluptatibus vel eligendi eveniet. Quas rem, repellendus deleniti nostrum minima delectus maxime fugiat, voluptates modi, laudantium, natus eligendi <sequi class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non quibusdam repellat commodi veniam ab voluptate odio recusandae earum, magnam dolore architecto dolorem. Sint dolor deserunt, molestiae soluta, consequatur non!</sequi>-->
+<!---->
+<!---->
+<!--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde earum itaque saepe voluptatum distinctio soluta provident repudiandae mollitia similique repellat eum incidunt quo, tenetur quasi voluptatem sed animi repellendus.-->
 
 ## Objetive
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eum, quae delectus, et sit laborum voluptas neque, nemo itaque quia a. Quas harum earum, quasi minus aspernatur laboriosam aperiam nam.
+<!--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eum, quae delectus, et sit laborum voluptas neque, nemo itaque quia a. Quas harum earum, quasi minus aspernatur laboriosam aperiam nam.-->
 
 ## Education
 
-### Ipsum Dolor
+### Doctoral Student at the Chair of Entrepreneurial Risks
 
-*Lorem, Lorem — Lorem Ipsum ‘14*
+*Ph.D. — present*
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
+Chair of Entrepreneurial Risks, ETH-Zurich.
 
-### Ipsum Dolor
+### BS-MS Dual Degree in Physics
 
-*Lorem, Lorem — Lorem Ipsum ‘14*
+*Masters Degree — June ‘17*
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
+BS-MS Dual Degree in Physics, IISER-Kolkata
+
+### Higher Secondary
+
+*10+2, Science (CHSE, Odisha) — June ‘12*
+
+Ravenshaw Junior College, Cuttack, India
+
+### Secondary
+
+*10, (BSE, Odisha) — June ‘10*
+
+Jashipur Govt. High School, Mayurbhanj, India
 
 ## Skills
 
-#### **Front end**
+#### **Computing**
 
-{% badge HTML5|16px %}
-{% badge CSS3|16px %}
-{% badge Bootstrap|16px %}
-{% badge Javascript/ES6|16px %}
-{% badge Responsive Web Design|16px %}
-{% badge Webpack|16px %}
-{% badge BEM|16px %}
-{% badge AngularJS|16px %}
-{% badge React|16px %}
-{% badge SASS|16px %}
-{% badge Gulp|16px %}
-{% badge NodeJS|16px %}
-{% badge NPM|16px %}
+{% badge Python|16px %}
+{% badge Matlab|16px %}
+{% badge R|16px %}
+{% badge MongoDB|16px %}
+
+<!--{% badge Responsive Web Design|16px %}-->
+<!--{% badge Webpack|16px %}-->
+<!--{% badge BEM|16px %}-->
+<!--{% badge AngularJS|16px %}-->
+<!--{% badge React|16px %}-->
+<!--{% badge SASS|16px %}-->
+<!--{% badge Gulp|16px %}-->
+<!--{% badge NodeJS|16px %}-->
+<!--{% badge NPM|16px %}-->
 
 ## Projects
 
-* [Typing Jekyll Template](https://github.com/williamcanin/typing-jekyll-template){:target="_blank"} - Typing, is a template for Jekyll built especially for those who want to have a blog and pages quickly and lightly.
+<!--* [Typing Jekyll Template](https://github.com/williamcanin/typing-jekyll-template){:target="_blank"} - Typing, is a template for Jekyll built especially for those who want to have a blog and pages quickly and lightly.-->
+
