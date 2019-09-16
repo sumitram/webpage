@@ -19,9 +19,35 @@
     <description>Typing - A Theme for Jekyll</description>
     <link>https://sumitram.github.io/webpage/</link>
     <atom:link href="https://sumitram.github.io/webpage/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Sep 2019 14:06:39 +0200</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 14:06:39 +0200</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2019 17:07:42 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2019 17:07:42 +0200</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Statistical Arbitrage!</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#useful-links&quot; id=&quot;markdown-toc-useful-links&quot;&gt;Useful Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--[Emoji Syntax](https://www.webpagefx.com/tools/emoji-cheat-sheet/){:target=&quot;_blank&quot;}--&gt;
+
+&lt;h3 id=&quot;useful-links&quot;&gt;Useful Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sumitram/fm-statarb/&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/project/5d67a086a15546264a164365/&quot; target=&quot;_blank&quot;&gt;Overleaf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr style=&quot;border-top: 1px solid #9D9D9D ; color: #9D9D9D ;&quot; class=&quot;endpost&quot; /&gt;
+
+</description>
+        <pubDate>Wed, 13 Feb 2019 14:22:16 +0100</pubDate>
+        <link>https://sumitram.github.io/webpage/blog/fm-statarb/</link>
+        <guid isPermaLink="true">https://sumitram.github.io/webpage/blog/fm-statarb/</guid>
+        
+        <tag>fm</tag>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -30,15 +56,7 @@
         <link>https://sumitram.github.io/webpage/blog/welcome-to-jekyll/</link>
         <guid isPermaLink="true">https://sumitram.github.io/webpage/blog/welcome-to-jekyll/</guid>
         
-        <tag>example</tag>
-        
-        <tag>welcome</tag>
-        
-        <tag>jekyll</tag>
-        
-        <tag>typing</tag>
-        
-        <tag>özel-bitcoin-adresi</tag>
+        <tag>sample</tag>
         
       </item>
     
