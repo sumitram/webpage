@@ -75,7 +75,7 @@ website:
 ################################################
 # Contact
     contact:
-      language: "pt-BR"
+      language: "en-US"
       placeholder:
         name: "Your full name"
         subject: "Subject matter"
