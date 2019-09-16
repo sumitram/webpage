@@ -10,7 +10,7 @@ website:
     subtitle: |
       It will not have forecast of return. Meanwhile, follow me on the social networks below.
 # Theme - Values [ typing | whiteglass | hacking | littlegirl | custom ]
-  theme: "hacking"
+  theme: "typing"
 # Configuration default
   title: Typing
   description: Typing - A Theme for Jekyll
@@ -29,7 +29,7 @@ website:
 # Sidebar
   sidebar:
     avatar: typing.svg
-    title: "Hey, <br> I'm Typing."
+    title: "Hey, <br> I'm Sumit."
     menu:
       home:
         text: "Hello!"
