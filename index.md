@@ -11,6 +11,8 @@ Hey, I'am [Sumit](https://github.com/sumitram){: target="_blank"}. I'm a Ph.D. s
 
 **Let's get some details:**
 
+$${\displaystyle f(x)=ae^{-{\frac {(x-b)^{2}}{2c^{2}}}}}$$
+
 This page exists to put everything about you, as if it were a simplified 'About'. The file for editing this page is in the directory root: `index.md`.
 
 You already have a template page for 'Blog', 'Projects', 'Search', 'Contact', 'Tags' and 'Resume', but you can change as you want, modifying property values.
