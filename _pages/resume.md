@@ -18,21 +18,21 @@ excerpt: |
 * Indice
 {: toc}
 
-#  Typing
+#  Sumit Kumar Ram
 
-### A theme for Jekyll
+### Ph.D. Student at the Chair of Entrepreneurial Risks
 
 {:.markdown__mt40}
 ## Personal Data
 
-**Nationality**: Brazilian   
-**Date of Birth**: 2017/04/05   
+**Nationality**: Indian
+**Date of Birth**: 1995/02/24
 **Marital Status**: Single   
-**Home Address**: Lorem, Lorem Ipsum, 789 / Dolor  
-**Country**: Brazil   
-**Province**: Lorem Ipsum/LI   
+**Home Address**: Leonhardstrasse 13
+**Country**: Switzerland
+**Province**: Zurich
 **Telephone**: +55 011 1234 5678   
-**Email**: your-email@example.com   
+**Email**: sram@ethz.ch
 **Website**: [my-web-site.domain](http://williamcanin.com)   
 
 
