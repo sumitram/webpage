@@ -10,7 +10,7 @@ website:
     subtitle: |
       It will not have forecast of return. Meanwhile, follow me on the social networks below.
 # Theme - Values [ typing | whiteglass | hacking | littlegirl | custom ]
-  theme: "typing"
+  theme: "hacking"
 # Configuration default
   title: Typing
   description: Typing - A Theme for Jekyll
@@ -95,7 +95,7 @@ website:
     message: "Simplicity is fashionable."
 # User data
 userdata:
-  email: william.costa.canin@gmail.com # E.g: youremail@domain.com
+  email: sram@ethz.ch # E.g: youremail@domain.com
   twitter: # E.g: "@my_twitter"
   disqus:
     username: # E.g: myuser
@@ -106,7 +106,7 @@ userdata:
       - title: GitHub
         id: github
         icon: fa-github
-        url: https://github.com
+        url: https://github.com/sumitram
 
       - title: Twitter
         id: twitter
@@ -121,5 +121,5 @@ userdata:
       - title: LinkedIn
         id: linkedin
         icon: fa-linkedin
-        url: https://linkedin.com
+        url: https://in.linkedin.com/in/sumit-kumar-ram-9674347b
 ### END Config
