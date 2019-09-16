@@ -1,7 +1,7 @@
 # ________________________________________________________________________________________________ #
 # Attention! Change only the values of the variables! Do not change the position of the variables. #
 # ________________________________________________________________________________________________-#
-
+################################################
 ### BEGIN Config
 website:
   under_maintenance:
@@ -26,6 +26,7 @@ website:
   google:
     analytics:
       id: # tracking id, e.g. "UA-000000-01"
+################################################
 # Sidebar
   sidebar:
     avatar: typing.svg
@@ -41,6 +42,9 @@ website:
           text: "Tags"
         feed:
           text: "Feed"
+
+
+################################################
 # Content
   content:
     search:
@@ -51,12 +55,14 @@ website:
         onfocus: "Search by: title or tags"
         onblur: ['Search in','article(s)']
         notfound: "Oh heavens, no results :("
+
+################################################
 # Post
     post:
       count_comments:
         text: "Comments:"
       author:
-        avatar: typing.svg
+        avatar: profile_burned.png #typing.svg
         title: Author
         name: Typing Theme
         description: |
@@ -65,6 +71,8 @@ website:
         title: "Share this post"
       comments:
         title: "Leave a comment on this post"
+
+################################################
 # Contact
     contact:
       language: "pt-BR"
@@ -80,10 +88,14 @@ website:
         title: "NOTE"
         description: |
           DO NOT PASS on my cell phone number.         
+
+################################################
 # Resume
     resume:
       button:
         text: "Print"
+
+################################################
 # Tags
     tag:
       header:
@@ -93,6 +105,8 @@ website:
 # Footer
   footer:
     message: "Simplicity is fashionable."
+
+################################################
 # User data
 userdata:
   email: sram@ethz.ch # E.g: youremail@domain.com
