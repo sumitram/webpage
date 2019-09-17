@@ -1,6 +1,27 @@
 [
   
     {
+      "title"    : "Social Tipping Point!",
+      "tags"     : "ss",
+      "url"     : "/webpage/blog/ss-tipping-social/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Talent Luck!",
+      "tags"     : "ss",
+      "url"     : "/webpage/blog/ss-talent-luck/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Herding Model!",
+      "tags"     : "ss",
+      "url"     : "/webpage/blog/ss-herding-model/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
       "title"    : "Statistical Arbitrage!",
       "tags"     : "fm",
       "url"     : "/webpage/blog/fm-statarb/",
@@ -8,8 +29,50 @@
     } ,
   
     {
+      "title"    : "French Realestate!",
+      "tags"     : "fm",
+      "url"     : "/webpage/blog/fm-real-estate/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "News Analysis!",
+      "tags"     : "fm",
+      "url"     : "/webpage/blog/fm-news-analysis/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Fundamental Analysis!",
+      "tags"     : "fm",
+      "url"     : "/webpage/blog/fm-fundamental-analysis/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Bubble Diffusion!",
+      "tags"     : "fm",
+      "url"     : "/webpage/blog/fm-bubble-diffusion/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Bubble Detection!",
+      "tags"     : "fm",
+      "url"     : "/webpage/blog/fm-bubble-detection/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Detection First Arrival!",
+      "tags"     : "eq",
+      "url"     : "/webpage/blog/eq-detection-first-arrival/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
       "title"    : "Welcome to Jekyll!",
-      "tags"     : "sample",
+      "tags"     : "",
       "url"     : "/webpage/blog/welcome-to-jekyll/",
       "date"     : "3/2/2018"
     } 

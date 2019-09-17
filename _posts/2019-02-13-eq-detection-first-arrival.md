@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Statistical Arbitrage!"
+title:  "Detection First Arrival!"
 date:   2019-02-13 10:22:16 -0300
-tags: ["fm"]
+tags: ["eq"]
 published: true
 comments: true
 script: [post.js]
@@ -24,8 +24,8 @@ day_quote:
 ### Useful Links
 
 
-- [GitHub](https://github.com/sumitram/fm-statarb/){:target="_blank"}
-- [Overleaf](https://www.overleaf.com/project/5d67a086a15546264a164365/){:target="_blank"}
+- [GitHub](https://github.com/sumitram/eq-detection-first-arrival){:target="_blank"}
+- [Overleaf](https://www.overleaf.com/project/5bd1bc9d590fb0684b5dfa43){:target="_blank"}
 
 
 

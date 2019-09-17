@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Statistical Arbitrage!"
+title:  "Talent Luck!"
 date:   2019-02-13 10:22:16 -0300
-tags: ["fm"]
+tags: ["ss"]
 published: true
 comments: true
 script: [post.js]
@@ -24,8 +24,8 @@ day_quote:
 ### Useful Links
 
 
-- [GitHub](https://github.com/sumitram/fm-statarb/){:target="_blank"}
-- [Overleaf](https://www.overleaf.com/project/5d67a086a15546264a164365/){:target="_blank"}
+- [GitHub](https://github.com/sumitram/ss-talent-luck){:target="_blank"}
+- [Overleaf](https://www.overleaf.com/project/5d1b270010b2bd04ada9e622){:target="_blank"}
 
 
 

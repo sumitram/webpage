@@ -2,7 +2,88 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://sumitram.github.io/blog/ss-tipping-social/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/ss-talent-luck/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/ss-herding-model/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>https://sumitram.github.io/blog/fm-statarb/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/fm-real-estate/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/fm-news-analysis/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/fm-fundamental-analysis/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/fm-bubble-diffusion/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/fm-bubble-detection/</loc>
+      
+        <lastmod>2019-02-13T14:22:16+01:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://sumitram.github.io/blog/eq-detection-first-arrival/</loc>
       
         <lastmod>2019-02-13T14:22:16+01:00</lastmod>
       
@@ -68,6 +149,8 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
+    
+  
     
   
     

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statistical Arbitrage!"
+title:  "Fundamental Analysis!"
 date:   2019-02-13 10:22:16 -0300
 tags: ["fm"]
 published: true
@@ -24,8 +24,8 @@ day_quote:
 ### Useful Links
 
 
-- [GitHub](https://github.com/sumitram/fm-statarb/){:target="_blank"}
-- [Overleaf](https://www.overleaf.com/project/5d67a086a15546264a164365/){:target="_blank"}
+- [GitHub](){:target="_blank"}
+- [Overleaf](https://www.overleaf.com/project/5d7fd5530cc36100014c6e95){:target="_blank"}
 
 
 

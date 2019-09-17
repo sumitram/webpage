@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statistical Arbitrage!"
+title:  "Bubble Diffusion!"
 date:   2019-02-13 10:22:16 -0300
 tags: ["fm"]
 published: true
@@ -24,8 +24,8 @@ day_quote:
 ### Useful Links
 
 
-- [GitHub](https://github.com/sumitram/fm-statarb/){:target="_blank"}
-- [Overleaf](https://www.overleaf.com/project/5d67a086a15546264a164365/){:target="_blank"}
+- [GitHub](https://github.com/sumitram/fm-bubble-diffusion){:target="_blank"}
+- [Overleaf](https://www.overleaf.com/project/5d7843a2db08c00001f425bd){:target="_blank"}
 
 
 
