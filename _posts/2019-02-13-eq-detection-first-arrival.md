@@ -26,6 +26,9 @@ day_quote:
 
 - [GitHub](https://github.com/sumitram/eq-detection-first-arrival){:target="_blank"}
 - [Overleaf](https://www.overleaf.com/project/5bd1bc9d590fb0684b5dfa43){:target="_blank"}
+- [Workspace](http://localhost:9990/tree/eq-detection-first-arrival){:target="_blank"}
+
+
 
 
 

@@ -26,6 +26,7 @@ day_quote:
 
 - [GitHub](https://github.com/sumitram/ss-talent-luck){:target="_blank"}
 - [Overleaf](https://www.overleaf.com/project/5d1b270010b2bd04ada9e622){:target="_blank"}
+- [Workspace](http://localhost:9990/tree/ss-talent-luck){:target="_blank"}
 
 
 
