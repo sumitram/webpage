@@ -26,7 +26,7 @@ day_quote:
 
 - [GitHub](https://github.com/sumitram/fm-bubble-diffusion){:target="_blank"}
 - [Overleaf](https://www.overleaf.com/project/5d7843a2db08c00001f425bd){:target="_blank"}
-
+- [Workspace](http://localhost:9990/tree/fm-bubble-diffusion){:target="_blank"}
 
 
 

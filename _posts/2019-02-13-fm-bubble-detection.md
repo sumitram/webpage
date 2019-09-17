@@ -26,6 +26,9 @@ day_quote:
 
 - [GitHub](https://github.com/sumitram/fm-bubble-detection){:target="_blank"}
 - [Overleaf](https://www.overleaf.com/project/5d8014610cc36100014c948b){:target="_blank"}
+- [Workspace](http://localhost:9990/tree/fm-bubble-detection){:target="_blank"}
+
+
 
 
 
