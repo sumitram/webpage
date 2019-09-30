@@ -12,8 +12,8 @@ website:
 # Theme - Values [ typing | whiteglass | hacking | littlegirl | custom ]
   theme: "typing"
 # Configuration default
-  title: Typing
-  description: Typing - A Theme for Jekyll
+  title: sumit
+  description: sumit - home page
   launch: 2016
   metatag:
     google-site-verification:
