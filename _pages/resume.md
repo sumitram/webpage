@@ -116,7 +116,7 @@ Jashipur Govt. High School, Mayurbhanj, India
 {% badge CSS|16px %}
 {% badge Bootstrap|16px %}
 {% badge Markdown|16px %}
-{% badge avaScript|16px %}
+{% badge JavaScript|16px %}
 
 #### **Automation**
 {% badge Selenium|16px %}
