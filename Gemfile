@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-jsminify', '~> 0.3.0'
   gem 'jekyll-gist', '~> 1.5.0'
   gem 'jekyll-youtube', '~> 1.0.0'
-  gem 'bootstrap', '~> 4.1.3'
+  gem 'bootstrap', '~> 4.3.1'
   gem 'jekyll-tagging', '~> 1.1.0'
   gem 'jemoji', '~> 0.10.1'
   gem 'jekyll-email-protect', '~> 1.1.0'
