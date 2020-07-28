@@ -7,7 +7,7 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-gem 'json', '~> 2.1.0'
+gem 'json', '~> 2.3.0'
 gem 'pygments.rb', '~> 1.2.1'
 gem 'bigdecimal', '~> 1.3.5'
 gem 'rake', '~> 12.3.1'
