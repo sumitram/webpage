@@ -29,7 +29,7 @@ website:
 ################################################
 # Sidebar
   sidebar:
-    avatar: profile_burned.png #typing.svg
+    avatar: circle-cropped.png#profile_burned.png #typing.svg
     title: "Hey, <br> I'm Sumit."
     menu:
       home:
