@@ -29,8 +29,8 @@ website:
 ################################################
 # Sidebar
   sidebar:
-    avatar: circle-cropped.png#profile_burned.png #typing.svg
-    title: "Hey, <br> I'm Sumit1."
+    avatar: profile_burned.png #typing.svg
+    title: "Hey, <br> I'm Sumit."
     menu:
       home:
         text: "Hello!"
